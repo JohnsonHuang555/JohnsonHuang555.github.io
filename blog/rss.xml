@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>強森愛扣丁 Blog</title>
+        <link>https://JohnsonHuang555.github.io/blog</link>
+        <description>強森愛扣丁 Blog</description>
+        <lastBuildDate>Tue, 02 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[一個遊戲專案的誕生]]></title>
+            <link>https://JohnsonHuang555.github.io/blog/2021/02/02/</link>
+            <guid>一個遊戲專案的誕生</guid>
+            <pubDate>Tue, 02 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[一個遊戲專案的誕生]]></description>
+        </item>
+    </channel>
+</rss>
